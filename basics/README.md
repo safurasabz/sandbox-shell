@@ -1,0 +1,1 @@
+This command shows the path we are currently in
